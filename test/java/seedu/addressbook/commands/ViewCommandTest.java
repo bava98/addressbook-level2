@@ -149,5 +149,4 @@ public class ViewCommandTest {
         // addressbook was not modified.
         assertEquals(expectedAddressBook.getAllPersons(), addressBook.getAllPersons());
     }
-
 }
